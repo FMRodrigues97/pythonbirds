@@ -261,7 +261,7 @@ class PassaroAmareloTests(PassaroBaseTests):
         :return:
         """
         passaro_amarelo = PassaroAmarelo(1, 1)
-        passaro_amarelo.lancar(90, 2)  # passaro lancado a 90 graus no tempo 2 segundos
+        passaro_amarelo.lancar(90, 2)  # Pássaro lancado a 90 graus no tempo 2 segundos
 
         # subindo
 
